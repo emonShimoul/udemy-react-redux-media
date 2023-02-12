@@ -1,9 +1,10 @@
 import './App.css';
+import UsersList from './components/UsersList';
 
 function App() {
   return (
-    <div className="App">
-      Hello!!
+    <div className="container mx-auto">
+      <UsersList></UsersList>
     </div>
   );
 }
