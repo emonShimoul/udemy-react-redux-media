@@ -1,10 +1,26 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Myra"
-        }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Corey Schowalter III",
+      "id": 2
+    },
+    {
+      "name": "Shelly Parker",
+      "id": 3
+    },
+    {
+      "name": "Rodney Johnson",
+      "id": 4
+    },
+    {
+      "name": "Jamie Swift",
+      "id": 5
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
