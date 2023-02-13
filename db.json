@@ -5,32 +5,12 @@
       "name": "Myra"
     },
     {
-      "name": "Shelly Parker",
-      "id": 3
-    },
-    {
-      "name": "Rodney Johnson",
-      "id": 4
-    },
-    {
       "name": "Jamie Swift",
       "id": 5
     },
     {
-      "name": "Jay Metz",
-      "id": 6
-    },
-    {
-      "name": "Elias Rowe",
-      "id": 7
-    },
-    {
       "name": "Ginger Herman",
       "id": 8
-    },
-    {
-      "name": "Luther Franey PhD",
-      "id": 9
     },
     {
       "name": "Jerry Sawayn",
@@ -47,10 +27,6 @@
     {
       "name": "Reginald Stroman",
       "id": 13
-    },
-    {
-      "name": "Elizabeth Jones",
-      "id": 14
     }
   ],
   "albums": [],
