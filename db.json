@@ -5,10 +5,6 @@
       "name": "Myra"
     },
     {
-      "name": "Jamie Swift",
-      "id": 5
-    },
-    {
       "name": "Ginger Herman",
       "id": 8
     },
@@ -17,16 +13,20 @@
       "id": 10
     },
     {
-      "name": "Erick Casper",
-      "id": 11
-    },
-    {
       "name": "Rodolfo Cartwright",
       "id": 12
     },
     {
       "name": "Daisy Kohler",
       "id": 14
+    },
+    {
+      "name": "Micheal Cartwright III",
+      "id": 15
+    },
+    {
+      "name": "Verna Roob",
+      "id": 16
     }
   ],
   "albums": [],
