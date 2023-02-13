@@ -2,8 +2,10 @@ import React from 'react';
 import { useFetchAlbumsQuery } from '../store';
 
 const AlbumsList = ({ user }) => {
-    const { data, error, isLoading } = useFetchAlbumsQuery(user);
-    console.log(data, error, isLoading);
+    // console.log(user);
+    const results = useFetchAlbumsQuery(user);
+    console.log(results);
+    // console.log({ data, error, isLoading });
 
     return (
         <div>
