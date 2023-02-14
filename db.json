@@ -9,10 +9,6 @@
       "id": 8
     },
     {
-      "name": "Jerry Sawayn",
-      "id": 10
-    },
-    {
       "name": "Rodolfo Cartwright",
       "id": 12
     },
@@ -36,24 +32,9 @@
       "id": 17
     },
     {
-      "userId": 10,
-      "title": "Gorgeous Concrete Tuna",
-      "id": 19
-    },
-    {
-      "userId": 10,
-      "title": "Sleek Soft Chair",
-      "id": 20
-    },
-    {
       "userId": 14,
       "title": "Ergonomic Fresh Shoes",
       "id": 21
-    },
-    {
-      "userId": 1,
-      "title": "Recycled Plastic Shoes",
-      "id": 22
     },
     {
       "userId": 1,
