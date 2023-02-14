@@ -74,6 +74,16 @@
       "userId": 1,
       "title": "Luxurious Concrete Fish",
       "id": 18
+    },
+    {
+      "userId": 10,
+      "title": "Gorgeous Concrete Tuna",
+      "id": 19
+    },
+    {
+      "userId": 10,
+      "title": "Sleek Soft Chair",
+      "id": 20
     }
   ],
   "photos": []
