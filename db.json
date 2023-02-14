@@ -32,26 +32,6 @@
   "albums": [
     {
       "userId": 1,
-      "title": "Modern Rubber Chicken",
-      "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Modern Soft Keyboard",
-      "id": 14
-    },
-    {
-      "userId": 8,
-      "title": "Handmade Bronze Keyboard",
-      "id": 15
-    },
-    {
-      "userId": 8,
-      "title": "Unbranded Plastic Chicken",
-      "id": 16
-    },
-    {
-      "userId": 1,
       "title": "Ergonomic Cotton Fish",
       "id": 17
     },
@@ -69,6 +49,21 @@
       "userId": 14,
       "title": "Ergonomic Fresh Shoes",
       "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Plastic Shoes",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Metal Bacon",
+      "id": 23
+    },
+    {
+      "userId": 8,
+      "title": "Gorgeous Wooden Shirt",
+      "id": 24
     }
   ],
   "photos": []
