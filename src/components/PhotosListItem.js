@@ -1,9 +1,9 @@
 import React from 'react';
 
-const PhotosListItem = () => {
+const PhotosListItem = ({ photo }) => {
     return (
         <div>
-            <h3>Photos List Items</h3>
+            <img className='h-20 w-20' src={photo.url} alt="random pic" />
         </div>
     );
 };
