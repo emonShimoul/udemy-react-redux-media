@@ -1,12 +1,23 @@
 import React from 'react';
-import { useFetchPhotosQuery } from '../store';
+import { useFetchPhotosQuery, useAddPhotoMutation } from '../store';
+import Button from './Button';
 
 const PhotosList = ({ album }) => {
     useFetchPhotosQuery(album);
+    const [addPhoto, addPhotoResults] = useAddPhotoMutation();
+
+    const handleAddPhoto = () => {
+        addPhoto(album);
+    }
 
     return (
         <div>
-            <h3>Photos List</h3>
+            <div className='m-2 flex flex-row items-center justify-between'>
+                <h3 className='text-lg font-bold'>Photos In {album.title}</h3>
+                <Button loading={addPhotoResults.isLoading} onClick={handleAddPhoto}>
+                    + Add Photo
+                </Button>
+            </div>
         </div>
     );
 };
