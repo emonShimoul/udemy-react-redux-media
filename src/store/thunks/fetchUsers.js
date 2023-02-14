@@ -15,7 +15,7 @@ const pause = (duration) => {
     return new Promise((resolve) => {
         setTimeout(resolve, duration);
     });
-}
+};
 
 // fetchUsers.pending === 'users/fetch/pending'
 // fetchUsers.fulfilled === 'users/fetch/fulfilled'
