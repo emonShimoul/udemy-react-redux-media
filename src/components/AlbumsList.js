@@ -10,7 +10,7 @@ const AlbumsList = ({ user }) => {
     const { data, error, isLoading } = useFetchAlbumsQuery(user);
     const [addAlbum, results] = useAddAlbumMutation();
     // console.log(results);
-    const [removeAlbum, removeAlbumResults] = useRemoveAlbumMutation();
+    // const [removeAlbum, removeAlbumResults] = useRemoveAlbumMutation();
 
     const handleAddAlbum = () => {
         addAlbum(user);
