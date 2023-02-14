@@ -31,19 +31,9 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
       "userId": 1,
       "title": "Modern Rubber Chicken",
       "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Tasty Soft Towels",
-      "id": 13
     },
     {
       "userId": 1,
@@ -64,11 +54,6 @@
       "userId": 1,
       "title": "Ergonomic Cotton Fish",
       "id": 17
-    },
-    {
-      "userId": 1,
-      "title": "Luxurious Concrete Fish",
-      "id": 18
     },
     {
       "userId": 10,
